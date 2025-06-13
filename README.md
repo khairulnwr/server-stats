@@ -2,7 +2,11 @@
 
 Script bash untuk menampilkan statistik dasar server Linux.
 
-## Cara Menjalankan
+## 🔗 Project URL
+
+[https://github.com/khairulnwr/server-stats](https://github.com/khairulnwr/server-stats)
+
+## 📦 Cara Menjalankan
 
 ```bash
 chmod +x server-stats.sh
